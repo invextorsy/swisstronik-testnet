@@ -50,4 +50,4 @@ contract Swisstronik {
         return message;
     }
 ```
-6. **Submit your `repository url` + `contract address` in task: Deploy a simple contract using Hardhat**
+6. **Submit your `Hello_swtr.sol github url` + `contract address` in task: Deploy a simple contract using Hardhat**
