@@ -1,9 +1,9 @@
 # Swisstronik Testnet Task: Deploy a simple contract using Hardhat
 https://www.swisstronik.com/testnet2/dashboard#
 
-## Download and create a swisstronik wallet [here](https://chromewebstore.google.com/detail/swisstronik/acfhdnikkbldnocbgmfginnmhjfkimjo?utm_team=devs_front&utm_channel&utm_lang=en&utm_date=45216) and get faucet in the task dashboard
+## 1) Download and create a swisstronik wallet [here](https://chromewebstore.google.com/detail/swisstronik/acfhdnikkbldnocbgmfginnmhjfkimjo?utm_team=devs_front&utm_channel&utm_lang=en&utm_date=45216) and get faucet in the task dashboard
 
-## Setup Instructions
+## 2) Setup Instructions
 
 1. **Clone the Repository:**
 
