@@ -7,7 +7,7 @@ This repository contains the necessary scripts to set up and interact with a sma
 1. **Clone the Repository:**
 
     ```sh
-    git clone https://github.com/dante4rt/swisstronik-testnet.git
+    git clone https://github.com/invextorsy/swisstronik-testnet.git
     cd swisstronik-testnet
     ```
 
@@ -22,7 +22,3 @@ This repository contains the necessary scripts to set up and interact with a sma
     - Choose **JavaScript** when prompted.
     - Use the default directory (just press Enter).
     - Press **y** to confirm any prompts.
-
-## Additional Information
-
-For more details and updates, subscribe to [Happy Cuan Airdrop](https://t.me/HappyCuanAirdrop).
